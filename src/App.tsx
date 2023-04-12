@@ -1,12 +1,48 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-<h1>Piano</h1>
+   <body>
+<main>
+<section className='piano'>
+<div className='keys-unit'>
+<div className='piano-key'>
+  <div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+<div className='piano-key'></div>
+
+
+
+  </div>
+</section>
+</main>
+</body>
 
 
 
