@@ -17,12 +17,21 @@ main {
                 height: 220px;
                 border-right: 1px solid #000;
                 position: relative;
+                &.pressed {
+                    background-color: #fb00dc;
+                    box-shadow: 0px 3px 3px rgba(0,0,0,0.8);
+                    transform: scale(0.99) translateY(-3px);
+                }
+
             > .black {
                     width: 28px;
                     height: 120px;
                     background-color: #000;
                     position: absolute;
                     right: -14px;
+                    &.pressed {
+                        background-color: #ad54fa;
+                    }
 
                 }
             }
