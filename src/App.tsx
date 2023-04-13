@@ -9,34 +9,63 @@ function App() {
 <main>
 <section className='piano'>
 <div className='keys-unit'>
+
 <div className='piano-key'>
   <div className="black"></div>
 </div>
 <div className='piano-key'>
 <div className="black"></div>
 </div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
-<div className='piano-key'></div>
+<div className='piano-key'>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
 <div className='piano-key'></div>
 
+<div className='piano-key'>
+  <div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'></div>
+
+<div className='piano-key'>
+  <div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'>
+<div className="black"></div>
+</div>
+<div className='piano-key'></div>
 
 
   </div>
