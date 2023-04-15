@@ -1,4 +1,5 @@
 import { keyboardKey } from "./interfaces/keyboard";
+import '../src/styles/App.scss';
 
 const keyboardKeys: keyboardKey[] = [{
     key: 'a',

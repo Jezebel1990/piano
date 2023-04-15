@@ -1,4 +1,4 @@
-import './App.scss';
+import '../src/styles/App.scss';
 import keyboardKeys from './keyboardKeys';
 import { playAudio } from './utils';
 import './App';

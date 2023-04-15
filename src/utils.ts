@@ -1,4 +1,4 @@
-import './App.scss';
+import '../src/styles/App.scss';
 import './Piano'
 import './App'
 
