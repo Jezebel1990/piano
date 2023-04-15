@@ -17,22 +17,31 @@ main {
                 height: 220px;
                 border-right: 1px solid #000;
                 position: relative;
+                display: flex;
                 &.pressed {
-                    background-color: #fb00dc;
+                    background-color: #406ae2;
                     box-shadow: 0px 3px 3px rgba(0,0,0,0.8);
                     transform: scale(0.99) translateY(-3px);
                 }
-
             > .black {
                     width: 28px;
                     height: 120px;
                     background-color: #000;
                     position: absolute;
                     right: -14px;
+                    color: #fff;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
                     &.pressed {
-                        background-color: #ad54fa;
+                        background-color: #010080
                     }
 
+                }
+                > span {
+                    position: absolute;
+                    bottom: 0;
+                    left: 30%;
                 }
             }
         }
