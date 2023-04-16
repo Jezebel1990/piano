@@ -2,6 +2,7 @@ import React from 'react';
 import '../src/styles/App.scss';
 import './Piano';
 
+
 function App() {
   return (
 <main>
@@ -12,7 +13,8 @@ function App() {
   <div className="black">
        C2# <br/> [
   </div>
-  <span>C2 <br/>A
+  <span>C2
+     <br/>A
   </span>
 </div>
 <div className='piano-key' data-key="d2">
@@ -68,8 +70,8 @@ function App() {
   D3# <br/> 6
 </div>
 <span>D3 <br/> L
-
 </span>
+
 </div>
 <div className='piano-key' data-key="e3">
 <span>E3 <br/> Ç
@@ -80,8 +82,8 @@ function App() {
   F3# <br/> 7
 </div>
 <span>F3 <br/> ]
-
 </span>
+
 </div>
 <div className='piano-key'data-key="g3">
 <div className="black">
@@ -145,7 +147,7 @@ function App() {
 </div>
 <div className='piano-key'data-key="a4">
 <div className="black">
-  #A4# <br/> V
+  A4# <br/> V
 </div>
 <span>A4 <br/> O
 

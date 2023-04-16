@@ -7,8 +7,8 @@ main {
     box-sizing: border-box;
     .piano {
         display: flex;
-        width: 1075px;
-        height: 220px;
+        width: 1052px;
+        height: 222px;
         border: 1px solid #000;
         div.keys-unit {
              display: flex;
@@ -19,7 +19,7 @@ main {
                 position: relative;
                 display: flex;
                 &.pressed {
-                    background-color: #406ae2;
+                    background-color: #4ba8f0;
                     box-shadow: 0px 3px 3px rgba(0,0,0,0.8);
                     transform: scale(0.99) translateY(-3px);
                 }
