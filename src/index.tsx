@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './components/Header';
-import Body from './components/Body';
 import './styles/index.scss';
+import Body from './components/Body';
 
 
 const root = ReactDOM.createRoot(
@@ -14,8 +14,8 @@ root.render(
   <React.StrictMode>
     <Header/>
     <div className="snow"></div>
- <Body />
-<App /> 
+    <Body/> 
+<App />
   </React.StrictMode>
 );
 

@@ -61,17 +61,12 @@
     }
 
 }
-.titule {
+.body {
+    font-size: 62px;
     color: $primary;
-    margin: 10;
-    font-size: 48px;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    display: flex;
-    font-weight: bold;
+    text-align: center;
   }
-  
+
 .img {
     height: auto;
 }
@@ -153,3 +148,6 @@
         box-shadow: 0 0 0.75em 0 $primary;
     }
 }
+
+  
+  

@@ -6,10 +6,7 @@ import './App';
 
 const pianoKeysEl = [...document.querySelectorAll('.piano .keys-unit .piano-key')] as HTMLElement[];
 
-
 function playPianoKey(keyElement: HTMLElement){
-
-  console.log(keyElement)
 
   if (keyElement) {
 
@@ -49,11 +46,9 @@ let keyName;
   }
 
 
-
   playAudio(keyName);
 }
 }
-
 
 
 pianoKeysEl.forEach((element: Element) => {

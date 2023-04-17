@@ -1,5 +1,5 @@
 # Play Piano 
-Welcome, this project is a Landing page of a piano.
+Welcome, this project is a Landing page of a virtual piano.
 
 
 
@@ -18,7 +18,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 - React Js;
 - TypeScript;
-- SCSS
+- SCSS;
+- HTML;
 
 
 ## 📚 License

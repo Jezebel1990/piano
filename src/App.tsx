@@ -3,14 +3,14 @@ import '../src/styles/App.scss';
 import './Piano';
 import './keyboardKeys';
 
+
 function App() {
   return (
 <main>
 <section className='piano'>
 <div className='keys-unit'>
-
 <div className='piano-key' data-key="c2">
-  <div className="black" id="teste">
+  <div className="black">
        C2# <br/> [
   </div>
   <span>C2
