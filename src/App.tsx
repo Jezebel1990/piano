@@ -2,7 +2,7 @@ import React from 'react';
 import '../src/styles/App.scss';
 import './Piano';
 import './keyboardKeys';
-
+import './utils';
 
 function App() {
   return (

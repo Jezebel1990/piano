@@ -33,10 +33,10 @@ let keyName;
 
      const container = keyElement.closest('.piano-key') as HTMLElement;
 
-     keyName = `${container.dataset.key}-sharp.mp3`;
+     keyName = `${container.dataset.key}-sharp.wav`;
 
   } else {
-   keyName = `${keyElement.dataset.key}.mp3`;
+   keyName = `${keyElement.dataset.key}.wav`;
 
   }
   if (keyName) {

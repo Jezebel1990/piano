@@ -8,8 +8,8 @@ export function playAudio(keyName: string):void {
 
     try {
 
-       const audio  = new Audio(`assets/audio/${keyName}`);
-
+       const audio  = new Audio(`./public/audios/${keyName}`);
+    
        audio.currentTime  = 1;
        audio.play();
 
