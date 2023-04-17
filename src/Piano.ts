@@ -9,13 +9,16 @@ const pianoKeysEl = [...document.querySelectorAll('.piano .keys-unit .piano-key'
 
 function playPianoKey(keyElement: HTMLElement){
 
+  console.log(keyElement)
+
   if (keyElement) {
 
     const piano = keyElement.closest('.piano');
-
+ 
     piano?.querySelectorAll('.piano-key').forEach((element) => {
-      
+
       if (element.classList.contains('pressed')) {
+
         element.classList.remove('pressed')
       }
 

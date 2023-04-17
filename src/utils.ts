@@ -1,6 +1,8 @@
 import '../src/styles/App.scss';
-import './Piano'
-import './App'
+import './Piano';
+import './App';
+import './keyboardKeys';
+
 
 export function playAudio(keyName: string):void {
 

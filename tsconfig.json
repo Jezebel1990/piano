@@ -25,5 +25,5 @@
   "include": [
     "src/*",
     "types/*"
-, "src/components/Header.tsx"  ]
+, "src/components/Header.tsx", "src/components/Body.tsx"  ]
 }

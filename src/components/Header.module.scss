@@ -61,8 +61,17 @@
     }
 
 }
-
-
+.titule {
+    color: $primary;
+    margin: 10;
+    font-size: 48px;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    font-weight: bold;
+  }
+  
 .img {
     height: auto;
 }

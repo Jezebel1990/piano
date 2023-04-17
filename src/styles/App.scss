@@ -9,6 +9,7 @@ main {
         display: flex;
         width: 1052px;
         height: 222px;
+        background-color: #fff;
         border: 1px solid #000;
         div.keys-unit {
              display: flex;
@@ -43,6 +44,7 @@ main {
                     bottom: 0;
                     left: 30%;
                 }
+                
             }
         }
     }

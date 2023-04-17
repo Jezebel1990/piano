@@ -1,7 +1,7 @@
 import React from 'react';
 import '../src/styles/App.scss';
 import './Piano';
-
+import './keyboardKeys';
 
 function App() {
   return (
@@ -10,11 +10,12 @@ function App() {
 <div className='keys-unit'>
 
 <div className='piano-key' data-key="c2">
-  <div className="black">
+  <div className="black" id="teste">
        C2# <br/> [
   </div>
   <span>C2
-     <br/>A
+     <br/>
+     A
   </span>
 </div>
 <div className='piano-key' data-key="d2">
