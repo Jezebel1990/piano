@@ -4,6 +4,7 @@ Welcome, this project is a Landing page of a virtual piano.
 ##  👀 Preview
 
 <img width=100% src="./src/assets/demo.gif">
+
 ![White_and_Blue_Clean_Phone_Notification_Facebook_Story__4_-removebg-preview](https://user-images.githubusercontent.com/75287031/232521161-e7543f03-df9f-476e-a526-5bb7d1b308db.png)
 ![White_and_Blue_Clean_Phone_Notification_Facebook_Story__5_-removebg-preview](https://user-images.githubusercontent.com/75287031/232521198-da7050c7-8dca-4c24-8a3b-89723e38993e.png)
 
